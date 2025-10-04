@@ -10,3 +10,4 @@
 // .env
 //day6/  -> folder ignore
 // git rm folder/file
+

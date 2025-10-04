@@ -1,0 +1,15 @@
+course: 
+https://anhtester.com/course/website-and-api-testing-automation-with-playwright-javascript-typescript-day-code-js-ts-tu-dau
+
+Records:
+https://drive.google.com/drive/u/2/folders/1eHmGb08XuTIg1zW2pECoXuP2whgcM7to  (JS TS )
+https://drive.google.com/drive/u/2/folders/1jGXk2p9d5GLTFwnuwt_OptLlBQ-fNajz (Playwright)
+
+src:
+https://github.com/meomew-auto/JS_TS_BASIC
+
+-------------------------------------------------------------------------------------------
+command
+
+
+
